@@ -1,0 +1,27 @@
+{
+  "name": "FabPic",
+  "slug": "fabpic",
+  "description": "Lightweight graphics editor that transforms screenshots into polished visuals with backgrounds, annotations, and export presets",
+  "website": "https://www.fabpic.app/",
+  "category": "Productivity",
+  "email": "fabpicapp@gmail.com",
+  "alternatives": [
+    "Canva"
+  ],
+  "pricing": "Paid",
+  "company": "FabPic",
+  "location": "India",
+  "faviconUrl": "https://www.fabpic.app/favicon.ico",
+  "opengraph": {
+    "last_updated": "2025-10-05T21:21:01.215Z",
+    "title": "FabPic: All-in-One Social & Marketing Graphics – Pay Once, Use Forever",
+    "description": "Create stunning social and marketing visuals in seconds. FabPic is the powerful yet simple graphics editor for marketers, founders, and creators—lifetime access for a single payment, all features unlocked.",
+    "image": "https://www.fabpic.app/og-img.png",
+    "url": "https://fabpic.app/",
+    "type": "website",
+    "twitter_card": "summary_large_image",
+    "twitter_title": "FabPic: All-in-One Social & Marketing Graphics – Pay Once, Use Forever",
+    "twitter_description": "Create stunning social and marketing visuals in seconds with FabPic's powerful yet simple graphics editor for teams and creators.",
+    "twitter_image": "https://www.fabpic.app/og-img.png"
+  }
+}
